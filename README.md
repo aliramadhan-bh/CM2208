@@ -1,2 +1,2 @@
 # CM2208
-Project
+Scientific Computing - Digital Signal Processing (DSP) toolbox in MATLAB
